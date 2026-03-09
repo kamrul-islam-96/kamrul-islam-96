@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/kamrul-islam-96/kamrul-islam-96/raw/main/Banner P.png" alt="Kamrul - Web Developer" width="100%"/>
-</div>
+
 
 <br/>
 
