@@ -84,19 +84,19 @@ const kamrul = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrul-islam-96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrulislambullet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul-islam-96&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulislambullet&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=kamrul-islam-96&theme=tokyonight&hide_border=true&fire=FF4500&ring=00d4ff&currStreakLabel=FFFFFF&sideLabels=FFFFFF" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=kamrulislambullet&theme=tokyonight&hide_border=true&fire=FF4500&ring=00d4ff&currStreakLabel=FFFFFF&sideLabels=FFFFFF" height="180"/>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul-islam-96&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrulislambullet&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -104,7 +104,7 @@ const kamrul = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamrul-islam-96&theme=darkhub&no-frame=true&margin-w=10&column=7" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kamrulislambullet&theme=darkhub&no-frame=true&margin-w=10&column=6" width="95%"/>
 </div>
 
 ---
